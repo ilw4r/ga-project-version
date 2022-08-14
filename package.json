@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/euberdeveloper/ga-project-version#readme",
   "dependencies": {
-    "@actions/core": "^1.4.0",
+    "@actions/core": "^1.9.1",
     "euberlog": "^2.0.18"
   },
   "devDependencies": {
